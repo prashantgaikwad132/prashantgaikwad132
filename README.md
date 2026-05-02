@@ -107,12 +107,6 @@ Developed an AI-powered Defect Reviewer utility to:
 
 ---
 
-# 🚀 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantgaikwad132\&show_icons=true)
-
----
-
 # 🚀 Connect With Me
 
 ## LinkedIn
