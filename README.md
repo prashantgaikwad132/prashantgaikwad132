@@ -1,11 +1,11 @@
 ````markdown
-# 👋 Hi, I'm Prashant Gaikwad
+👋 Hi, I'm Prashant Gaikwad
 
 🚀 Playwright Python Automation Engineer | SDET Aspirant | QA Automation Enthusiast
 
 ---
 
-# 🔥 About Me
+🔥 About Me
 
 - 💼 4.5+ Years of Testing Experience
 - 🚗 Background in Automation Testing
@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 Tech Stack
+🚀 Tech Stack
 
 ## Automation
 - Playwright (Python)
