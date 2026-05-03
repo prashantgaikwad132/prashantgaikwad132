@@ -45,7 +45,7 @@
 
 ---
 
-# 🚀 Current Learning Focus
+🚀 Current Learning Focus
 
 - Advanced Playwright Automation
 - API State Injection
@@ -57,7 +57,7 @@
 
 ---
 
-# 🚀 Featured Automation Project
+🚀 Featured Automation Project
 
 ## 🔥 Playwright-Pytest Automation Framework
 
@@ -88,7 +88,7 @@ project/
 
 ---
 
-# 🚀 AI Initiative
+🚀 AI Initiative
 
 ## 🤖 Defect Reviewer AI Agent
 
@@ -101,13 +101,13 @@ Developed an AI-powered Defect Reviewer utility to:
 
 ---
 
-# 🚀 Certifications
+🚀 Certifications
 
-* ✅ ISTQB Certified Tester
+* ✅ ISTQB Foundation Level Certified Tester
 
 ---
 
-# 🚀 Connect With Me
+🚀 Connect With Me
 
 ## LinkedIn
 
@@ -123,7 +123,7 @@ Developed an AI-powered Defect Reviewer utility to:
 
 ---
 
-# 🚀 Career Goal
+🚀 Career Goal
 
 To become a highly skilled Automation Engineer specializing in:
 
