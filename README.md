@@ -23,6 +23,7 @@
 - Selenium WebDriver
 - Pytest
 - Page Object Model (POM)
+- Framework Architecture
 
 ## Programming
 - Python
@@ -31,6 +32,8 @@
 - Requests Library
 - REST APIs
 - JSON Validation
+- API State Injection
+- Network Interception & Mocking
 - Postman
 
 ## CI/CD & Tools
@@ -38,6 +41,7 @@
 - GitHub Actions
 - Git
 - Docker (Basics)
+- Parallel Execution
 
 ## Reporting
 - Allure Reports
@@ -46,13 +50,8 @@
 ---
 
 🚀 Current Learning Focus
-
 - Advanced Playwright Automation
-- API State Injection
-- Network Interception & Mocking
-- Parallel Execution
-- CI/CD Integration
-- Framework Architecture
+- CI/CD Integration 
 - AI-based Testing Utilities
 
 ---
